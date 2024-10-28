@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2326 links on our wiki!**
+**There are already 2347 links on our wiki!**
 
 💥 Intro
 -----
@@ -47,6 +47,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
       - BSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/BSCP.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
+    - NIS2: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/NIS2.md)
     - ISO 27001: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/ISO27001.md)
     - Other: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/other.md)
   - Courses:
@@ -76,6 +77,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Malware: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Malware/videos.md)
   - Web Hacking: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/articles.md) / [Payload Lists](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/payload_lists.md) / [Plugins](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/plugins.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Web%20Hacking/videos.md)
   - Binary Pwn: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/Binary%20PWN/videos.md)
+  - Pentest Reports: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/pentest_reports.md)
 - **Blue Team**:
   - Forensics: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/videos.md)
   - Incident Response: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/videos.md)
