@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2347 links on our wiki!**
+**There are already 2349 links on our wiki!**
 
 💥 Intro
 -----
@@ -14,7 +14,7 @@ This wiki cannot exist without you! So if you want to contribute to expanding th
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
 
-Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki)
+Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
 
@@ -107,6 +107,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
     - SCA: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/SCA/videos.md)
     - Secret Scanner: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Secret%20Scanner/videos.md)
     - VMs: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/VMs/videos.md)
+    - Threat Modeling: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Threat%20Modeling/videos.md)
     - Vulnerability Management: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/SDLC/Vulnerability%20Management/videos.md) 
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Hardware/videos.md)
 - **Infrastructure**: [Hosting and VPS](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Infrastructure/Hosting%20and%20VPS.md)
