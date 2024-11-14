@@ -18,4 +18,6 @@
 13. [PL] Burp Academy #8: Fałszowanie żądań między witrynami (CSRF) - [link](https://www.youtube.com/watch?v=S_xmtiBNAlE)
 14. [PL] Burp Academy #9: Clickjacking - jak działa i jak się przed nim chronić? - [link](https://www.youtube.com/watch?v=_79lwY7o8OE)
 15. [PL] Burp Academy #10: CORS i nagłówek Access Control Allow Origin [link](https://www.youtube.com/watch?v=gUOjwCVBymY&list=PLgCP26AQhkZKOrs67eSw1uML2FPgfWVgs&index=12)
-16. [PL] Testy Penetracyjne: Od Czego Zacząć Testy Bezpieczeństwa Pierwszej Aplikacji - [link](https://www.youtube.com/watch?v=trMz7kh-B9Y)
+16. [PL] Burp Academy #11: Jak Wykrywać i Wykorzystywać Podatność XXE [link](https://www.youtube.com/watch?v=fMG3CZLgmKg)
+17. [PL] Testy Penetracyjne: Od Czego Zacząć Testy Bezpieczeństwa Pierwszej Aplikacji - [link](https://www.youtube.com/watch?v=trMz7kh-B9Y)
+
