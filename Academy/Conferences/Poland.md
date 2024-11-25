@@ -9,3 +9,4 @@
 4. Cyber Trust - [link](https://cybertrust.org.pl/)
 5. Security Case Study - [link](https://www.securitycasestudy.pl/)
 6. x33fcon - [link](https://www.x33fcon.com/#!index.md)
+7. Sekurak Hacking Party - [link]( https://hackingparty.pl)

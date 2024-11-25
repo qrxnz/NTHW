@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2349 links on our wiki!**
+**There are already 2351 links on our wiki!**
 
 💥 Intro
 -----
@@ -25,6 +25,15 @@ If you prefer a link browser, check out a project created by a member of our com
 Would you like to actively contribute to the growth of **Not The Hidden Wiki**? <br> Would you like to submit an idea? Or maybe you just want to send new links that are worth adding to the website?
 
 **Don't waste time!** [Join](https://discord.gg/fjwzWFWuzg) **to the community right now!**
+
+
+🏫 Not The Hidden Knowledge - [ **NTHK** ]
+-----
+
+**Not The Hidden Knowledge** is a project aimed at supporting people who want to enter cybersecurity through learning paths, positioning tests, recordings and much more! Are you interested? Read the [README](https://github.com/notthehiddenwiki/NTHW/tree/nthw/NTHK/README.md) created especially for NTHK! 
+
+P.S. For now, everything related to NTHK is created in PL!
+
 
 📖 Category list
 -----
@@ -131,3 +140,5 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 7. **17.04.2024** - We created the NTHW brand
 8. **17.04.2024** - Official LinkedIn [profile](https://www.linkedin.com/company/not-the-hidden-wiki/) was created
 9. **26.05.2024** - 250 stars on GitHub
+10. **19.11.2024** - 500 stars on GitHub
+11. **??.??.????** - 2500 links on NTHW
