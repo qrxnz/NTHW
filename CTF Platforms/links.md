@@ -92,3 +92,5 @@
 87. vAPI (vulnerable API) - [link](https://github.com/roottusk/vapi)
 88. AI Security Challenge - [link](https://www.promptairlines.com/)
 89. Gandalf: Test Your Prompt Injection Skills - [link](https://gandalf.lakera.ai/intro)
+90. DockerLabs - [link](https://dockerlabs.es/)
+91. The Hackers Labs - [link](https://thehackerslabs.com/)
