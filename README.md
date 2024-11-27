@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2351 links on our wiki!**
+**There are already 2380 links on our wiki!**
 
 💥 Intro
 -----
@@ -54,6 +54,7 @@ P.S. For now, everything related to NTHK is created in PL!
       - OSED: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/OSED.md)
       - eJPT: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/eJPT.md)
       - BSCP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/BSCP.md)
+      - CISSP: [Click](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Certificates/Notes/CISSP.md)
   - Compliance:
     - GDPR: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/GDPR.md)
     - NIS2: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Academy/Compliance/NIS2.md)
