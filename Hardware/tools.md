@@ -15,3 +15,5 @@
 10. Logic Analyzer, for Arduino, AVR, ESP8266 and STM32 - [link](https://github.com/aster94/logic-analyzer)
 11. A simple USB sniffer based on Raspberry Pi RP2040 - [link](https://github.com/ataradov/usb-sniffer-lite)
 12. Firmware emulation framework - [link](https://github.com/therealsaumil/emux)
+13. Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico - [link](https://git.lain.faith/sys64738/DragonProbe)
+14. Voltage glitching pcb (RP2040) - [link](https://git.lain.faith/sys64738/dragonzap)
