@@ -11,3 +11,4 @@
 6. Sektor7: RED TEAM Operator: Windows Persistence Course - [link](https://institute.sektor7.net/rto-windows-persistence)
 7. Sektor7: RED TEAM Operator: Privilege Escalation in Windows Course - [link](https://institute.sektor7.net/rto-lpe-windows)
 8. Binary Offensive: Modern Initial Access and Evasion Tactics - [link](https://binary-offensive.com/initial-access-training)
+9. pwn.guide: Online cybersecurity tutorial hub with about 100 tutorials - [link](https://pwn.guide)
