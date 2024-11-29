@@ -10,3 +10,5 @@
 5. lineageOS - [link](https://lineageos.org)
 6. Project Matrixx - [link](https://projectmatrixx.org)
 7. LMO/libremobileos - [link](https://get.libremobileos.com)
+8. GrapheneOS - [link](https://grapheneos.org/)
+9. CalyxOS - [link](https://calyxos.org/)
