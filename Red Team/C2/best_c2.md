@@ -17,3 +17,4 @@
 12. GmailC2 - [link](https://github.com/machine1337/gmailc2)
 13. Ninja - [link](https://github.com/ahmedkhlief/Ninja)
 14. Kubesploit - [link](https://github.com/cyberark/kubesploit)
+15. NimPlant - [link](https://github.com/chvancooten/NimPlant)
