@@ -43,6 +43,7 @@
 * **Maerisec** - [LinkedIn](https://www.linkedin.com/in/wiktoria-security/)
 * **Jakub Miara** - [LinkedIn](https://www.linkedin.com/in/jakub-miara/)
 * **piatkosia2010**
+* **mroczek** - [LinkedIn](https://www.linkedin.com/in/igor-mroczkowski-75a420331/)
 
 
-**Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)
+**Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
