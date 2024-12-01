@@ -9,3 +9,4 @@
 4. Deepfence ThreatMapper: Identify vulnerabilities in running containers, images, hosts and repositories. - [link](https://github.com/deepfence/ThreatMapper)
 5. Hadolint, Dockerfile linter - [link](https://hub.docker.com/r/hadolint/hadolint)
 6. Checkov, SAST Tool for IaC analyse also Dockerfiles [link](https://www.checkov.io/)
+7. lazydocker - The lazier way to manage everything docker - [link](https://github.com/jesseduffield/lazydocker)
