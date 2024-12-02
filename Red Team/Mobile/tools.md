@@ -21,3 +21,6 @@
 16. A universal memory dumper using Frida - [link](https://github.com/Nightbringer21/fridump)
 17. A CLI application that automatically prepares Android APK files for HTTPS inspection - [link](https://github.com/shroudedcode/apk-mitm)
 18. Unlock an Android phone (or device) by bruteforcing the lockscreen PIN - [link](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
+19. JADXecute - JADX-gui scripting plugin for dynamic decompiler manipulation - [link](https://github.com/LaurieWired/JADXecute)
+20. BadUnboxing - Automated Android custom unpacker generator - [link](https://github.com/LaurieWired/BadUnboxing)
+21. ARTful - The ARTful library for dynamically modifying the Android Runtime - [link](https://github.com/LaurieWired/ARTful)
