@@ -74,3 +74,4 @@
 69. binary file to hex format converter - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/bin2shellcode)
 70. Finding RWX section in PE file - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/find_rwx_sections)
 71. text to Little endian converter - [link](https://github.com/YxZi5/-random-programming-stuff-/tree/main/text2LE)
+72.  Rizin - Free and Open Source Reverse Engineering Framework - [link](https://rizin.re/)

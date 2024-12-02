@@ -11,3 +11,5 @@
 6. Snowfall | Flakes made EASY - [link](https://youtu.be/C4_P2wVbdFU?si=CD5AuUiHJKUX-YSC)
 7. Nix home-manager tutorial: Declare your entire home directory - [link](https://youtu.be/FcC2dzecovw?si=1MC0Hf2xmKm2NJau)
 8. Nix Dev Environments | Declare Your Coding Projects - [link](https://youtu.be/yQwW8dkuHqw?si=PcXos65_tsZR8pm-)
+9. Learn Together Nix Programming - Series on learning Nix Programming with me (Playlist) - [link](https://youtube.com/playlist?list=PL-oJWTgK9N6_tJ751N-TvhcF0aPu39zEY&si=HgEXAdbuF8eFyIuT)
+10.  The ULTIMATE guide to Nixpkgs - [link](https://youtu.be/3hMIqxbQBRM?si=7L5XutzFcS83f9uI)
