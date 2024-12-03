@@ -13,3 +13,5 @@
 8.  Emulate IoT Device Firmware with QEMU - [link](https://www.youtube.com/watch?v=3yP3QOT-h98)
 9.  Run Outdated Toolchains with Docker - [link](https://www.youtube.com/watch?v=HmiWugMDeeU)
 10. Build QEMU Images With Buildroot - [link](https://www.youtube.com/watch?v=O9RHMKJqVTg)
+11. How to Write ARM Assembly Language for the Raspberry Pi Pico - [link](https://youtu.be/ZS_Cbmf3z-U?si=xrSaApYGPdAcby2O)
+12. An Operating System on a $4 Board? | Getting Started with FreeRTOS on the Raspberry Pi Pico - [link](https://youtu.be/5pUY7xVE2gU?si=-hESYNr1D6_rIKwD)
