@@ -11,3 +11,4 @@
 6. x33fcon - [link](https://www.x33fcon.com/#!index.md)
 7. Sekurak Hacking Party - [link](https://hackingparty.pl)
 8. Confidence - [link](https://confidence-conference.org/)
+9. Advanced Threat Summit - [link](https://atsummit.pl/)
