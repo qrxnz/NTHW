@@ -52,3 +52,4 @@
 47. 1001 ways to PWN prod - [link](https://docs.google.com/presentation/d/1bkrkAJLuDjfZfsf-9A62rygWe6zR_uiOq_Yd_8X_NGY/edit#slide=id.p)
 48. Setting Up an Environment for Web Hacking - [link](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 49. Five easy ways to hack GraphQL targets - [link](https://blog.intigriti.com/2024/05/31/five-easy-ways-to-hack-graphql-targets/)
+50. Use case for accont takeover - [link](https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing)

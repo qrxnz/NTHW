@@ -52,3 +52,4 @@
 47. EmojiDeploy: Smile! Your Azure web service just got RCE’d - [link](https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced)
 48. Bounce the Ticket and Silver Iodide on Azure AD Kerberos - [link](https://www.silverfort.com/resources/white-paper/bounce-the-ticket-and-silver-iodide-on-azure-ad-kerberos/)
 49. This publication is a collection of various common attack scenarios on Microsoft Entra ID - [link](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+50. ThreatModel for Azure Storage - [link](https://trustoncloud.com/azure-storage-threatmodel/)
