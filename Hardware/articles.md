@@ -21,3 +21,8 @@
 16. Some CircuitPython tricks, mostly reminders to myself - [link](https://github.com/todbot/circuitpython-tricks)
 17. The best hacker's gadgets for Red Team pentesters and security researchers - [link](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 18. Emulating IoT firmware made easy - [link](https://boschko.ca/qemu-emulating-firmware/)
+19. ROPing Routers from scratch - [link](https://0reg.dev/blog/tenda-ac8-rop)
+20. Walking The Plank: Add-Ons For The Bus Pirate - [link](https://hackaday.com/2024/08/29/walking-the-plank-add-ons-for-the-bus-pirate/)
+21. Breaking Fortinet Firmware Encryption - [link](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
+22. Bootstrapping security analysis of Arlo cameras - [link](https://www.synacktiv.com/en/publications/arlo-im-watching-you)
+23. Security analysis of a VoIP deskphone firmware - [link](https://blog.syss.com/posts/voip-deskphone-firmware-security/)
