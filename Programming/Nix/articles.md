@@ -10,3 +10,4 @@
 5. Nix Cheat Sheet - [link](https://b.libdb.so/nix-cheat-sheet/)
 6. Shell Scripts with Nix - [link](https://ertt.ca/nix/shell-scripts/)
 7. Patching nixpkgs - [link](https://ertt.ca/nix/patch-nixpkgs/)
+8. NixOS & Flakes Book - [link](https://nixos-and-flakes.thiscute.world/)
