@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2423 links on our wiki!**
+**There are already 2471 links on our wiki!**
 
 💥 Intro
 -----
@@ -26,7 +26,6 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 
 **Don't waste time!** [Join](https://discord.gg/fjwzWFWuzg) **to the community right now!**
 
-
 🏫 Not The Hidden Knowledge - [ **NTHK** ]
 -----
 
@@ -34,6 +33,9 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 
 P.S. For now, everything related to NTHK is created in PL!
 
+🙏 Thank You!
+-----
+To thanks and appreciate the contribution to the development of the "**Hackuj Dobroczynnie** (aka HD)" and "**Cyber Adwent** (aka CA)" series, we have created a [list](https://github.com/notthehiddenwiki/NTHW/blob/nthw/acknowledgements.md) presenting our speakers along with their social media and links to recordings!
 
 📖 Category list
 -----
@@ -146,4 +148,5 @@ P.S. For now, everything related to NTHK is created in PL!
 8. **17.04.2024** - Official LinkedIn [profile](https://www.linkedin.com/company/not-the-hidden-wiki/) was created
 9. **26.05.2024** - 250 stars on GitHub
 10. **19.11.2024** - 500 stars on GitHub
-11. **??.??.????** - 2500 links on NTHW
+11. **12.12.2024** - First anniversary 🍰🎈
+12. **??.??.????** - 2500 links on NTHW

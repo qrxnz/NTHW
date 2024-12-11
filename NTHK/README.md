@@ -8,4 +8,10 @@
 💥 Intro
 -----
 
-Soon!
+Witaj w **Not The Hidden Knowledge**! Miejscu, które pozwoli Ci się rozwinąć w wielu obszarach cyberbezpieczeństwa i to zupełnie za darmo! 
+
+NTHK to miejsce w którym będą pojawiać się materiały mające przygotować Cię do przyszłej pracy w cybersecurity. Oprócz masy linków znajdziesz tu nagrania, cheat-sheety, testy wiedzy i dużo więcej (w przyszłości będą dostępni również mentorzy którzy poprowadzą Twój rozwój w jak najlepszym kierunku)!
+
+Dopiero budujemy nową gałąź naszego projektu dlatego jeśli to czytasz wypełnij proszę krótką [ankietę](https://forms.gle/NHkNJTCHZqAUktij8), która pozwoli nam poznać Twoje potrzeby, a co za tym idzie przygotować dopasowane materiały.
+
+Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatywy odezwij się na adres: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
