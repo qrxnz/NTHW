@@ -38,6 +38,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
   - Lecture titled (CA): **"Stegomalware"** - [Recording on YouTube](https://www.youtube.com/watch?v=65a4FV0cNg8)
-
+- **Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
+  - Lecture titled (CA): **"Urodziny NTHW + Wprowadzenie do testów penetracyjnych"** - [Recording on YouTube](https://www.youtube.com/watch?v=zWiPjd2hN8w)
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
