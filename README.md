@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2471 links on our wiki!**
+**There are already 2502 links on our wiki!**
 
 💥 Intro
 -----
@@ -149,4 +149,4 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
 9. **26.05.2024** - 250 stars on GitHub
 10. **19.11.2024** - 500 stars on GitHub
 11. **12.12.2024** - First anniversary 🍰🎈
-12. **??.??.????** - 2500 links on NTHW
+12. **12.12.2024** - 2500 links on NTHW
