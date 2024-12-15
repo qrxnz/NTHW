@@ -12,3 +12,6 @@
 7. OffSec: EXP-301 Windows User Mode Exploit Development - OSED - [link](https://www.offsec.com/courses/exp-301/)
 8. OffSec: EXP-312 Advanced macOS Control Bypasses - OSMR - [link](https://www.offsec.com/courses/exp-312/)
 9. OffSec: EXP-401 Advanced Windows Exploitation - OSEE - [link](https://www.offsec.com/courses/exp-401/)
+10. Blue Team Level 1 (BTL1) - [link](https://www.securityblue.team/certifications/blue-team-level-1)
+11. Blue Team Level 2 (BTL2) - [link](https://www.securityblue.team/certifications/blue-team-level-2)
+12. Certified Security Operations Manager (CSOM) - [link](https://www.securityblue.team/certifications/certified-security-operations-manager-csom)
