@@ -40,5 +40,12 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Stegomalware"** - [Recording on YouTube](https://www.youtube.com/watch?v=65a4FV0cNg8)
 - **Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
   - Lecture titled (CA): **"Urodziny NTHW + Wprowadzenie do testów penetracyjnych"** - [Recording on YouTube](https://www.youtube.com/watch?v=zWiPjd2hN8w)
+- **Marcin Naskręt**: [LinkedIn](https://www.linkedin.com/in/marcin-naskr%C4%99t-940383219/)
+  - Lecture titled (CA): **"Admin na wyciągnięcie ręki: O audycie haseł i sztuce ich łamania"** - [Recording on YouTube](https://www.youtube.com/watch?v=4X_iQUnfOZI)
+- **M. Kucharskov**: [Website](https://kucharskov.pl/)
+  - Lecture titled (CA): **"Od CTFów do włanego biznesu"** - [Recording on YouTube](https://www.youtube.com/watch?v=72xaqy6H2GU)
+- **Michał Żaczek**: [LinkedIn](https://www.linkedin.com/in/micha%C5%82-%C5%BCaczek3/)
+  - Lecture titled (CA): **"Oops!... I Did It Again - czyli Security Misconfiguration w akcji!"** - [Recording on YouTube](https://www.youtube.com/watch?v=Kvl49_X4X-Y)
+
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
