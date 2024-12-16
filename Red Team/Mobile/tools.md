@@ -24,3 +24,4 @@
 19. JADXecute - JADX-gui scripting plugin for dynamic decompiler manipulation - [link](https://github.com/LaurieWired/JADXecute)
 20. BadUnboxing - Automated Android custom unpacker generator - [link](https://github.com/LaurieWired/BadUnboxing)
 21. ARTful - The ARTful library for dynamically modifying the Android Runtime - [link](https://github.com/LaurieWired/ARTful)
+22. Malimite - iOS decompiler designed to help researchers analyze and decode IPA files - [link](https://github.com/LaurieWired/Malimite)
