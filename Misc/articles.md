@@ -21,3 +21,4 @@
 16. NTLM Credential Theft Risk in Python Apps Threaten Windows Security - [link](https://hackread.com/ntlm-credential-theft-python-apps-windows-security/)
 17. Forensic Cyberpsychology: Profiling the Next-Generation Cybercriminal - [link](https://www.tripwire.com/state-of-security/forensic-cyberpsychology-profiling-next-generation-cybercriminal)
 18. 4 essential cyber hygiene practices to boost your organization’s digital defenses - [link](https://www.techradar.com/pro/4-essential-cyber-hygiene-practices-to-boost-your-organizations-digital-defenses)
+19. What do Security Professionals really do? - [link](https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023-1.png)

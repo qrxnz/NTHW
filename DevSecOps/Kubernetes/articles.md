@@ -12,3 +12,8 @@
 7. Kubernetes ETCD Post Exploitation - [link](https://research.nccgroup.com/2023/11/07/post-exploiting-a-compromised-etcd-full-control-over-the-cluster-and-its-nodes/)
 8. Trivy CIS Benchmark Scanning - [link](https://www.aquasec.com/blog/trivy-kubernetes-cis-benchmark-scanning/)
 9. Trivy KBOM vulnerability scanning - [link](https://www.aquasec.com/blog/scanning-kbom-for-vulnerabilities-with-trivy/) 
+10. CIS Benchmarks for Kubernetes - [link](https://workbench.cisecurity.org/benchmarks/6083)
+11. NSA/CISA Kubernetes Hardening Guidance - [link](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+12. Kubernetes Pod Security Standards - [link](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+13. Kubernetes Cluster Security - [link](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+14. OWASP Cheatsheet - [link](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
