@@ -24,3 +24,4 @@
 19. Malware web and phishing investigation - [link](https://decentsecurity.com/#/malware-web-and-phishing-investigation/)
 20. Incident Response Methodologies 2022 - [link](https://github.com/certsocietegenerale/IRM)
 21. A collection of sources of documentation, as well as field best practices, to build/run a SOC - [link](https://github.com/cyb3rxp/awesome-soc)
+22. Computer Security Incident Handling Guide - Recommendations of the National Institute of Standards and Technology - [link](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
