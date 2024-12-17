@@ -34,6 +34,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Dziennikarstwo a cyberbezpieczeństwo"** - [Recording on YouTube](https://www.youtube.com/watch?v=CS0E5ivxp50)
 - **Andrzej Kokocinski**: [LinkedIn](https://www.linkedin.com/in/%E2%98%81%F0%9F%94%92-andrzej-kokocinski-39024832/)
   - Lecture titled (CA): **"Bezpieczeństwo sieci w chmurze"** - [Recording on YouTube](https://www.youtube.com/watch?v=-unYtfkcA_w)
+  - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
 - **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/)
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
