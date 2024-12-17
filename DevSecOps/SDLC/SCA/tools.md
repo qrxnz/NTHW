@@ -11,4 +11,6 @@
 7. Cargo Auditable the Rust package manager that embeds dependency information in compiled binaries to make them auditable - [link](https://github.com/rust-secure-code/cargo-auditable)
 8. Renovate tool that automates dependency updates. It scans for outdated dependencies in your project and automatically creates pull requests with updated versions, ensuring your dependencies stay up-to-date and secure - [link](https://github.com/renovatebot/renovate)
 9. Bearer security tool for data security and privacy risks. It helps to identify and manage sensitive data flows and privacy issues within their codebase - [link](https://github.com/Bearer/bearer)
+10. Packj  is a tool to help to mitigate software supply chain attacks. It can detect malicious, vulnerable, abandoned, typo-squatting, and other "risky" packages from popular open-source package registries - [link](https://github.com/ossillate-inc/packj)
+11. Scorecard help open source maintainers improve their security best practices and to help open source consumers judge whether their dependencies are safe - [link](https://github.com/ossf/scorecard)
 

@@ -3,4 +3,4 @@
 ## Secret Scanner
 -----
 
-It's empty here for now. Come back in a while and if you have links, let me know!
+1. List of RegExes to detect secrets in code - [link](https://mazinahmed.net/blog/secrets-patterns-db/)
