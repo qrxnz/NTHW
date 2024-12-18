@@ -131,8 +131,8 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
 - **Artificial Intelligence**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AI/videos.md)
 - **Cryptography**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/videos.md)
 - **Android**: [Forums](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/forums.md) / [Roms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/roms.md)
-- **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
-- **Privacy**: [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md)
+- **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md) 
+- **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
 
 🚀 Milestones
 -----
