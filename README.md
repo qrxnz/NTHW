@@ -108,7 +108,7 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
   - Rust: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Rust/videos.md)
   - Nix: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Nix/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Nix/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Programming/Nix/videos.md)
 - **DevSecOps**:
-  - DevOps: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/DevOps/articles.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/DevOps/labs.md)
+  - DevOps: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/DevOps/articles.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/DevOps/labs.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/DevOps/videos.md)
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Docker/videos.md)
   - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/courses.md) / [Labs](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/lab.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/DevSecOps/Kubernetes/videos.md)
   - SDLC:
@@ -132,7 +132,7 @@ To thanks and appreciate the contribution to the development of the "**Hackuj Do
 - **Cryptography**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Cryptography/videos.md)
 - **Android**: [Forums](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/forums.md) / [Roms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/roms.md)
 - **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
-- **Privacy**: [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md)
+- **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
 
 🚀 Milestones
 -----
