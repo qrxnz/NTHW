@@ -47,6 +47,11 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Od CTFów do włanego biznesu"** - [Recording on YouTube](https://www.youtube.com/watch?v=72xaqy6H2GU)
 - **Michał Żaczek**: [LinkedIn](https://www.linkedin.com/in/micha%C5%82-%C5%BCaczek3/)
   - Lecture titled (CA): **"Oops!... I Did It Again - czyli Security Misconfiguration w akcji!"** - [Recording on YouTube](https://www.youtube.com/watch?v=Kvl49_X4X-Y)
-
-
+- **Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
+  - Lecture titled (CA): **"AppSec 101, czyli bezpieczeństwo aplikacji webowych z perspektywy OWASP Top 10"** - [Recording on YouTube](https://www.youtube.com/watch?v=DI-_H4qaDWY)
+- **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
+  - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
+- **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)
+  - Lecture titled (CA): **"Wprowadzenie do OSINT: Jak odkrywać to, co ukryte na widoku?"** - [Recording on YouTube](https://www.youtube.com/watch?v=IcmCt70y9Bk)
+  
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
