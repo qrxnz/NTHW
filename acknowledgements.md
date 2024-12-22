@@ -53,5 +53,9 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
 - **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)
   - Lecture titled (CA): **"Wprowadzenie do OSINT: Jak odkrywać to, co ukryte na widoku?"** - [Recording on YouTube](https://www.youtube.com/watch?v=IcmCt70y9Bk)
+- **Grzegorz Tworek**: [LinkedIn](https://www.linkedin.com/in/grzegorztworek/)
+  - Lecture titled (CA): **"Obsługa incydentów malware"** - [Recording on YouTube](https://www.youtube.com/watch?v=2nHaezXgXL0)
+- **Mateusz Kopacz / Krzysztof Smaga**: [LinkedIn](https://www.linkedin.com/in/mateusz-kopacz-444542a3/) / [LinkedIn](https://www.linkedin.com/in/smagakrzysztof/) 
+  - Lecture titled (CA): **"Najczęściej spotykanie typy ataków sieciowych w kontekście ochrony dzieci i seniorów"** - [Recording on YouTube](https://youtu.be/OPdSPqAis6E)
   
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)

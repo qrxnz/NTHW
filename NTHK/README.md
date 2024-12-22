@@ -15,3 +15,17 @@ NTHK to miejsce w którym będą pojawiać się materiały mające przygotować 
 Dopiero budujemy nową gałąź naszego projektu dlatego jeśli to czytasz wypełnij proszę krótką [ankietę](https://forms.gle/NHkNJTCHZqAUktij8), która pozwoli nam poznać Twoje potrzeby, a co za tym idzie przygotować dopasowane materiały.
 
 Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatywy odezwij się na adres: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
+
+
+🏫 Chomiczkujemy dla Was wiedzę!
+-----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/NTHW_ft._NTHK.png">
+</p>
+
+📖 Category list
+-----
+
+- **Testy**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Tests/) 
+- **Cheatsheet**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Cheatsheet/) 
