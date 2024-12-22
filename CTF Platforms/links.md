@@ -3,11 +3,11 @@
 ## CTF Platforms
 -----
 
-**INFORMATION**
-🔴 - a platform for practicing offensive skills
-🔵 - a platform for practicing defensive skills
-🟣 - offensive + defensive
-⚪ - other
+**INFORMATION**<br>
+🔴 - a platform for practicing offensive skills<br>
+🔵 - a platform for practicing defensive skills<br>
+🟣 - offensive + defensive<br>
+⚪ - other<br>
 
 1. [🟣] HackTheBox App - [link](https://app.hackthebox.com)
 2. [🟣] HackTheBox Academy - [link](https://academy.hackthebox.com/)
@@ -101,3 +101,4 @@
 90. [🔴] DockerLabs - [link](https://dockerlabs.es/)
 91. [🔴] The Hackers Labs - [link](https://thehackerslabs.com/)
 92. [🔵] Blue Team Labs - [link](https://blueteamlabs.online/)
+93. [🔴] PentesterLab - [link](https://pentesterlab.com/)
