@@ -56,3 +56,6 @@
 51. What is Virual Memory Meaning, Architecture - [link](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)
 52. Reverse engineering LSASS to decrypt DPAPI keys - [link](https://otter.gitbook.io/red-teaming/articles/reverse-engineering-lsass-to-decrypt-dpapi-keys)
 53. Top 100 assembly instructions (‍x86‍-‍64‍) - [link](https://hexarcana.ch/b/2024-08-12-top-100-x86_64-asm-instructions/)
+54. Nightmare intro binary exploitation/reverse engineering course based around cts - [link](https://guyinatuxedo.github.io/)
+55. Reversing / Malware Analysis / Assembly -resources github gist - [link](https://gist.github.com/IdanBanani/5be0442ad390f89259b494098f450bfd)
+56. malwareunicorn.org workshops - [link](https://malwareunicorn.org/#/workshops) 
