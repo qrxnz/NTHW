@@ -11,3 +11,4 @@
 6. Compilation of AI Security links - [link](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)
 7. AI Risk Management Framework - [link](https://www.nist.gov/itl/ai-risk-management-framework)
 8. Threat Model Diagrams for Machine Learning - [link](https://shostack.org/blog/five-threat-model-diagrams-for-ml/)
+9. Practical Deep Learning For Coders - [link](https://course.fast.ai/)
