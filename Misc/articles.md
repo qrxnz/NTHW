@@ -23,4 +23,5 @@
 18. 4 essential cyber hygiene practices to boost your organization’s digital defenses - [link](https://www.techradar.com/pro/4-essential-cyber-hygiene-practices-to-boost-your-organizations-digital-defenses)
 19. What do Security Professionals really do? - [link](https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023-1.png)
 19. Track Awesome List Updates Daily - [link](https://www.trackawesomelist.com/)
-20. 20. Developer Roadmaps - [link](https://roadmap.sh/)
+20. Developer Roadmaps - [link](https://roadmap.sh/)
+21. Talkback.sh , AI powered infosec aggregator - [link](https://talkback.sh/)
