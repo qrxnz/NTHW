@@ -49,6 +49,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Oops!... I Did It Again - czyli Security Misconfiguration w akcji!"** - [Recording on YouTube](https://www.youtube.com/watch?v=Kvl49_X4X-Y)
 - **Lena Sędkiewicz**: [LinkedIn](https://www.linkedin.com/in/lena-sedkiewicz/)
   - Lecture titled (CA): **"AppSec 101, czyli bezpieczeństwo aplikacji webowych z perspektywy OWASP Top 10"** - [Recording on YouTube](https://www.youtube.com/watch?v=DI-_H4qaDWY)
+  - Lecture titled (CA): **"Mózg w sieci: Jak zadbać o higienę cyfrową"** - [Recording on YouTube](https://www.youtube.com/watch?v=sEiHeDCKs80)
 - **Marcin Gąstół**: [LinkedIn](https://www.linkedin.com/in/marcin-gastol/)
   - Lecture titled (CA): **"Managed Identities vs Service Principals w Azure"** - [Recording on YouTube](https://www.youtube.com/watch?v=pubmP8ixOQA)
 - **Michał Kłaput**: [LinkedIn](https://www.linkedin.com/in/michalklaput/)
@@ -57,5 +58,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Obsługa incydentów malware"** - [Recording on YouTube](https://www.youtube.com/watch?v=2nHaezXgXL0)
 - **Mateusz Kopacz / Krzysztof Smaga**: [LinkedIn](https://www.linkedin.com/in/mateusz-kopacz-444542a3/) / [LinkedIn](https://www.linkedin.com/in/smagakrzysztof/) 
   - Lecture titled (CA): **"Najczęściej spotykanie typy ataków sieciowych w kontekście ochrony dzieci i seniorów"** - [Recording on YouTube](https://youtu.be/OPdSPqAis6E)
-  
+- **Beata Zalewa / Paula Januszkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/paulajanuszkiewicz/)
+  - Lecture titled (CA): **"Przygotowanie do kariery w cyberbezpieczeństwie + Introduction to Threat Hunting"** - [Recording on YouTube](https://youtu.be/qQbZDcSv9uI) 
+
+
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
