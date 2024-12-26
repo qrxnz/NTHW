@@ -1,7 +1,7 @@
 # Meet M. Walkowski!
 
 <p align="left">
-  <img src=".github/authors/mwalkowski.png" style="width: 300px;">
+  <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/authors/mwalkowski.png" style="width: 300px;">
 </p>
 
 **Mail**: [michal.walkowski@pwr.edu.pl](mailto:michal.walkowski@pwr.edu.pl)<br>
