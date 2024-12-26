@@ -17,3 +17,6 @@
 12. Ethical hacking with Python tools - [link](https://ep2016.europython.eu/media/conference/slides/ethical-hacking-with-python-tools.pdf)
 13. Awesome Python - [link](https://github.com/vinta/awesome-python)
 14. Python Roadmap - [link](https://roadmap.sh/python)
+15. The blog of core Python developer Brett Cannon - [link](https://snarky.ca/)
+16. python-courses.eu website - [link](https://python-course.eu/)
+17. practical python programming course - [link](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
