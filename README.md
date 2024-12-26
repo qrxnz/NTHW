@@ -37,6 +37,8 @@ P.S. For now, everything related to NTHK is created in PL!
 -----
 To thanks and appreciate the contribution to the development of the "**Hackuj Dobroczynnie** (aka HD)" and "**Cyber Adwent** (aka CA)" series, we have created a [list](https://github.com/notthehiddenwiki/NTHW/blob/nthw/acknowledgements.md) presenting our speakers along with their social media and links to recordings!
 
+Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
+
 📖 Category list
 -----
 

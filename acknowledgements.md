@@ -16,7 +16,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Bchecks, Bamdbas a może Python? Zapomniana wtyczka Burp Python-Scripter i jej magiczne możliwości."** - [Recording on YouTube](https://www.youtube.com/watch?v=izL1yEehFEg)
 - **Bartłomiej Wierzbiński**: [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-w-494795b5/)
   - Lecture titled (HD): **"Autostopem przez uwierzytelnianie w aplikacjach webowych"** - [The lecture was not recorded]
-- **Artur Markiewicz**: [LinkedIn]https://www.linkedin.com/in/artur-markiewicz/()
+- **Artur Markiewicz**: [LinkedIn](https://www.linkedin.com/in/artur-markiewicz/)
   - Lecture titled (CA): **" Jak myśli specjalista: Cyberzagrożenia w praktyce dla młodych adeptów branży."** - [Recording on YouTube](https://www.youtube.com/watch?v=GcwydqF4s_U)
 - **Agnieszka Mietz-Blijleven**: [LinkedIn](https://www.linkedin.com/in/agnieszkamietz/)
   - Lecture titled (CA): **"Deepfake - zagrożenie cyberbezpieczeństwa czy szansa rozwoju technologicznego?"** - [Recording on YouTube](https://www.youtube.com/watch?v=D9Yv1scuemw)
@@ -61,5 +61,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Beata Zalewa / Paula Januszkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/paulajanuszkiewicz/)
   - Lecture titled (CA): **"Przygotowanie do kariery w cyberbezpieczeństwie + Introduction to Threat Hunting"** - [Recording on YouTube](https://youtu.be/qQbZDcSv9uI) 
 
+
+Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
 Do you want to share your knowledge? Let me know at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
