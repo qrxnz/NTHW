@@ -25,3 +25,7 @@
 19. Track Awesome List Updates Daily - [link](https://www.trackawesomelist.com/)
 20. Developer Roadmaps - [link](https://roadmap.sh/)
 21. Talkback.sh , AI powered infosec aggregator - [link](https://talkback.sh/)
+22. Ubuntu Command Line Tutorials - [link](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+23. Linux Journey - [link](https://linuxjourney.com/)
+24. Linux Survival - [link](https://linuxsurvival.com/)
+25. Linux Command - [link](https://linuxcommand.org/index.php)
