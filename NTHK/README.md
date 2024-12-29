@@ -24,8 +24,4 @@ Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatyw
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/NTHW_ft._NTHK.png">
 </p>
 
-📖 Category list
------
-
-- **Testy**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Tests/) 
-- **Cheatsheet**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Cheatsheet/) 
+**Od 07.01.2025 zaczynamy pierwszy semestr NTHW!**

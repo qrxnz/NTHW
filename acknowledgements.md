@@ -12,7 +12,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 
 - **Piotr Kamiński**: [LinkedIn](https://www.linkedin.com/in/piotr-kaminski-1336b012/)
   - Lecture titled (HD): **"Data Science w Security"** - [Recording on YouTube](https://www.youtube.com/watch?v=5Fn7KucCou0)
-- **Michał Walkowski**: [LinkedIn](https://www.linkedin.com/in/michal-walkowski/)
+- **Michał Walkowski**: [LinkedIn](https://www.linkedin.com/in/michal-walkowski/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/mwalkowski.md)
   - Lecture titled (HD): **"Bchecks, Bamdbas a może Python? Zapomniana wtyczka Burp Python-Scripter i jej magiczne możliwości."** - [Recording on YouTube](https://www.youtube.com/watch?v=izL1yEehFEg)
 - **Bartłomiej Wierzbiński**: [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-w-494795b5/)
   - Lecture titled (HD): **"Autostopem przez uwierzytelnianie w aplikacjach webowych"** - [The lecture was not recorded]
@@ -35,11 +35,11 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Andrzej Kokocinski**: [LinkedIn](https://www.linkedin.com/in/%E2%98%81%F0%9F%94%92-andrzej-kokocinski-39024832/)
   - Lecture titled (CA): **"Bezpieczeństwo sieci w chmurze"** - [Recording on YouTube](https://www.youtube.com/watch?v=-unYtfkcA_w)
   - Lecture titled (CA): **"Analiza logów i monitorowanie"** - [Recording on YouTube](https://www.youtube.com/watch?v=4WmNYBAptTs)
-- **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/)
+- **Daniel Krzyczkowski**: [LinkedIn](https://www.linkedin.com/in/daniel-krzyczkowski/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/daniel-krzyczkowski.md)
   - Lecture titled (CA): **"Wyzwania dotyczące tożsamości w chmurze z perspektywy dewelopera aplikacji"** - [The lecture was not recorded]
 - **Adrian Kapczyński**: [LinkedIn](https://www.linkedin.com/in/hpar3s/)
   - Lecture titled (CA): **"Stegomalware"** - [Recording on YouTube](https://www.youtube.com/watch?v=65a4FV0cNg8)
-- **Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
+- **Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/mblaszczak.md)
   - Lecture titled (CA): **"Urodziny NTHW + Wprowadzenie do testów penetracyjnych"** - [Recording on YouTube](https://www.youtube.com/watch?v=zWiPjd2hN8w)
 - **Marcin Naskręt**: [LinkedIn](https://www.linkedin.com/in/marcin-naskr%C4%99t-940383219/)
   - Lecture titled (CA): **"Admin na wyciągnięcie ręki: O audycie haseł i sztuce ich łamania"** - [Recording on YouTube](https://www.youtube.com/watch?v=4X_iQUnfOZI)
