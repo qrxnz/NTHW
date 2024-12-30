@@ -20,7 +20,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **" Jak myśli specjalista: Cyberzagrożenia w praktyce dla młodych adeptów branży."** - [Recording on YouTube](https://www.youtube.com/watch?v=GcwydqF4s_U)
 - **Agnieszka Mietz-Blijleven**: [LinkedIn](https://www.linkedin.com/in/agnieszkamietz/)
   - Lecture titled (CA): **"Deepfake - zagrożenie cyberbezpieczeństwa czy szansa rozwoju technologicznego?"** - [Recording on YouTube](https://www.youtube.com/watch?v=D9Yv1scuemw)
-- **Jakub Przepióra**: [LinkedIn](https://linkedin.com/in/jakub-przepiora/)
+- **Jakub Przepióra**: [LinkedIn](https://linkedin.com/in/jakub-przepiora/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/jakub-przepiora.md)
   - Lecture titled (CA): **"Wstęp do cyberbezpieczeństwa"** - [Recording on YouTube](https://www.youtube.com/watch?v=dhJCvE_Y0_I)
 - **Robert Przybylski**: [LinkedIn](https://www.linkedin.com/in/przybylskirobert/)
   - Lecture titled (CA): **"Tożsamość w chmurze"** - [Recording on YouTube](https://www.youtube.com/watch?v=4sFJu0nzsWI)
