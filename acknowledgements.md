@@ -18,7 +18,7 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (HD): **"Autostopem przez uwierzytelnianie w aplikacjach webowych"** - [The lecture was not recorded]
 - **Artur Markiewicz**: [LinkedIn](https://www.linkedin.com/in/artur-markiewicz/)
   - Lecture titled (CA): **" Jak myśli specjalista: Cyberzagrożenia w praktyce dla młodych adeptów branży."** - [Recording on YouTube](https://www.youtube.com/watch?v=GcwydqF4s_U)
-- **Agnieszka Mietz-Blijleven**: [LinkedIn](https://www.linkedin.com/in/agnieszkamietz/)
+- **Agnieszka Mietz-Blijleven**: [LinkedIn](https://www.linkedin.com/in/agnieszkamietz/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/Agnieszka_Mietz-Blijleven.md)
   - Lecture titled (CA): **"Deepfake - zagrożenie cyberbezpieczeństwa czy szansa rozwoju technologicznego?"** - [Recording on YouTube](https://www.youtube.com/watch?v=D9Yv1scuemw)
 - **Jakub Przepióra**: [LinkedIn](https://linkedin.com/in/jakub-przepiora/) / [About Me](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards/jakub-przepiora.md)
   - Lecture titled (CA): **"Wstęp do cyberbezpieczeństwa"** - [Recording on YouTube](https://www.youtube.com/watch?v=dhJCvE_Y0_I)
