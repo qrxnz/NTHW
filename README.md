@@ -44,6 +44,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/nthw/stars.md)
 - **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Notes)
+- **Community Projects**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Community%20Projects)
 - **Learning Paths**:
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
   - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md)
