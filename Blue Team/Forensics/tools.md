@@ -183,3 +183,6 @@
 179. pyWhat -  🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 Topics - [link](https://github.com/bee-san/pyWhat)
 180. lemmeknow - The fastest way to identify anything! - [link](https://github.com/swanandx/lemmeknow)
+181. ccl_chromium_reader: These libraries provide programmatic access to these data-stores with a digital forensics slant - [link](https://github.com/cclgroupltd/ccl_chromium_reader)
+182. unix_collector: elf-contained shell script designed for the forensic collection of various artifacts from Unix-based systems - [link](https://github.com/op7ic/unix_collector/tree/main)
+183. CIRCLean - USB key sanitizer - [link](https://www.circl.lu/projects/CIRCLean/)
