@@ -25,3 +25,7 @@
 20. Incident Response Methodologies 2022 - [link](https://github.com/certsocietegenerale/IRM)
 21. A collection of sources of documentation, as well as field best practices, to build/run a SOC - [link](https://github.com/cyb3rxp/awesome-soc)
 22. Computer Security Incident Handling Guide - Recommendations of the National Institute of Standards and Technology - [link](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+23. Awesome Incident Response - [link](https://github.com/meirwah/awesome-incident-response)
+24. Guidance for Incident Responders - [link](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)
+25. Ransomware attack recovery plan - [link](https://learn.microsoft.com/en-us/security/ransomware/protect-against-ransomware-phase1)
+26. Ethics for Incident Response and Security Teams - [link](https://www.first.org/global/sigs/ethics/ethics-first)
