@@ -6,7 +6,7 @@
 
 ## Thank You!
 
-***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie" and "Cyber ​​Advent" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
+***As the Not The Hidden Wiki community, we would like to express our sincere thanks for your significant contribution to the development of the NTHW project and for your active participation in the "Hackuj Dobroczynnie (HD)" / "Cyber ​​Advent (CA)" and "Not The Hidden Knowledge (NTHK)" initiatives. Your commitment, professionalism and creative approach were of great importance for achieving success in the area of ​​knowledge sharing. We appreciate the willingness to share knowledge, experiences and ideas that have significantly influenced the success of our initiatives.***
 
 Below you can find a list of speakers who shared their knowledge as part of our initiatives:
 
@@ -60,6 +60,8 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (CA): **"Najczęściej spotykanie typy ataków sieciowych w kontekście ochrony dzieci i seniorów"** - [Recording on YouTube](https://youtu.be/OPdSPqAis6E)
 - **Beata Zalewa / Paula Januszkiewicz**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/) / [LinkedIn](https://www.linkedin.com/in/paulajanuszkiewicz/)
   - Lecture titled (CA): **"Przygotowanie do kariery w cyberbezpieczeństwie + Introduction to Threat Hunting"** - [Recording on YouTube](https://youtu.be/qQbZDcSv9uI) 
+- **Beata Zalewa**: [LinkedIn](https://www.linkedin.com/in/beatazalewa/)
+  - Lecture titled (NTHK): **"NTHK S1E01 - Blue Team dla zielonych. Od czego zacząć i jak zaplanować naukę?"** - [Recording on YouTube](https://www.youtube.com/watch?v=I1xutYHjAnY)
 
 
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
