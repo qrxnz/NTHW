@@ -17,7 +17,7 @@
 12. Secure Coding Guidelines for Java - [link](https://www.youtube.com/watch?v=4iEiKa1JmBU)
 13. Java Security & the Java Ecosystem • Nicolas Frankel • GOTO 2021 - [link](https://www.youtube.com/watch?v=uVob-4aXbxY)
 14. Securing the JVM • Nicolas Frankel • GOTO 2019 - [link](https://www.youtube.com/watch?v=sIuVbVbjZcw)
-15. The Anatomy of a Secure Web Application in Java Using Spring Security and Apache Fortress -  [link](https://www.youtube.com/watch?v=g3ENNk_vrjI)
+15. The Anatomy of a Secure Web Application in Java Using Spring Security and Apache Fortress - [link](https://www.youtube.com/watch?v=g3ENNk_vrjI)
 16. Diving Java ecosystem security with DevOps and OpenSource - [link](https://www.youtube.com/watch?v=ZbR8cZCk9Cw)
 17. Fuzzing Java with Jazzer - Java User Group Switzerland - [link](https://www.youtube.com/watch?v=YRporP5p1pc)
 18. Exploring Java Heap Dumps Java Language label Ryan Cuprak - [link](https://www.youtube.com/watch?v=9Cnm2lFBe0I)
