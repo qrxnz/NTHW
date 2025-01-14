@@ -46,5 +46,6 @@
 * **mroczek** - [LinkedIn](https://www.linkedin.com/in/igor-mroczkowski-75a420331/)
 * **qrxnz** - [Linkedin](https://www.linkedin.com/in/karol-skoczyk17) / [Website](https://qrxnz.dev) / [GitHub](https://github.com/qrxnz)
 * **Adrian Sroka** - [LinkedIn](https://www.linkedin.com/in/adriansroka/) / [Website](https://www.diwebsity.com/) / [YouTube](https://www.youtube.com/@SecurityChampionsTeam)
+* **Mateusz Zacki** - [LinkedIn](https://www.linkedin.com/in/mzacki/) / [Website](https://mzacki.github.io/) / [GitHub](https://github.com/mzacki)
 
 **Want to join the list?** Share interesting links. Write to me at: [miblak@notthehiddenwiki.com](mailto:miblak@notthehiddenwiki.com)
