@@ -64,7 +64,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"NTHK S1E01 - Blue Team dla zielonych. Od czego zacząć i jak zaplanować naukę?"** - [Recording on YouTube](https://www.youtube.com/watch?v=I1xutYHjAnY)
 - **Marcin Ratajczyk**: [LinkedIn](https://www.linkedin.com/in/znanyproblem/)
   - Lecture titled (HD): **"Cała ta telemetria"** - [Recording on YouTube](https://youtu.be/8mAQfXxBqOQ)
-
+- **Krystian Kaczmarek**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/)
+  - Lecture titled (NTHK): **"Adversary-in-the-Middle"** - [Recording on YouTube](https://youtu.be/B7RUsLjuOqk)
+- **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
+  - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
 
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 
