@@ -68,6 +68,10 @@ Below you can find a list of speakers who shared their knowledge as part of our 
   - Lecture titled (NTHK): **"Adversary-in-the-Middle"** - [Recording on YouTube](https://youtu.be/B7RUsLjuOqk)
 - **Grzegorz Niedziela**: [LinkedIn](https://www.linkedin.com/in/gniedziela/)
   - Lecture titled (HD): **"[AMA] BugBounty"** - [Recording on YouTube](https://youtu.be/37fBGKw0UxM)
+- **Krystian Kaczmarek / Kamil S. / Michał Błaszczak**: [LinkedIn](https://www.linkedin.com/in/krystiankaczmarek/) / [LinkedIn](https://www.linkedin.com/in/kamil-s-387a5a31b/) / [LinkedIn](https://www.linkedin.com/in/michal-blaszczak/)
+  - Lecture titled (NTHK): **"Podsumowanie miniCTF by NTHW"** - [Recording on YouTube](https://youtu.be/7JBKNbX0PGE)
+- **Damian Kuźma**: [LinkedIn](https://www.linkedin.com/in/damiankuzma/)
+  - Lecture titled (HD): **"Bezpieczeństwo haseł"** - [Recording on YouTube](https://www.youtube.com/watch?v=hJLHGrmxIbs)
 
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 

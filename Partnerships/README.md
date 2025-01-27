@@ -7,3 +7,4 @@
 Below you will find companies that we have **partnerships** with and that support **Not The Hidden Wiki**
 
 * [EmailLabs](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/EmailLabs.md)
+* [Unshade](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Unshade.md)
