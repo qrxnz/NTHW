@@ -61,3 +61,5 @@
 56. Pastebin for hackers - [link](https://pastes.sh/)
 57. Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance - [link](https://github.com/subat0mik/Misconfiguration-Manager)
 58. untools: Thinking tools and frameworks to help you solve problems, make decisions and understand systems - [link](https://untools.co/)
+59. explainshell - write a command-line to see the help text that matches each argument - [link](https://explainshell.com/)
+60. ATAC - A simple API client (postman like) in your terminal - [link](https://github.com/Julien-cpsn/ATAC)
