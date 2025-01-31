@@ -63,3 +63,4 @@
 58. untools: Thinking tools and frameworks to help you solve problems, make decisions and understand systems - [link](https://untools.co/)
 59. explainshell - write a command-line to see the help text that matches each argument - [link](https://explainshell.com/)
 60. ATAC - A simple API client (postman like) in your terminal - [link](https://github.com/Julien-cpsn/ATAC)
+61. Posting - A beautiful open-source terminal app for developing and testing APIs - [link](https://posting.sh/)
