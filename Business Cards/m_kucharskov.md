@@ -4,7 +4,7 @@
 
 📧 **Mail**: [m@kucharskov.pl](mailto:m@kucharskov.pl)<br>
 🌐 **Webiste**: [https://kucharskov.pl](https://kucharskov.pl)<br>
-🪅 **Hobby**: LEGO, Speedcubing, Smarthome<br>
+🎮 **Hobby**: LEGO, Speedcubing, Smarthome<br>
 ⭐ **Superpower**: Diabetes (type 1)<br>
 
 <p align="justify">
