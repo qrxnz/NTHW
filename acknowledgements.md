@@ -75,9 +75,14 @@ Below you can find a list of speakers who shared their knowledge as part of our 
 - **Paweł Piwosz**: [LinkedIn](https://www.linkedin.com/in/pawelpiwosz/)
   - Lecture titled (NTHK): **"Dobre praktyki zabezpieczania chmury AWS"** - [Recording on YouTube](https://youtu.be/YvmfDw5XpD8)
   - Lecture titled (NTHK): **"Terraform. Jak zacząć, żeby było dobrze i bezpiecznie"** - [Recording on YouTube](https://youtu.be/qu_D1IloEZM)
+  - Lecture titled (NTHK): **"Terraform. Jak upewnić się, że dobrze zaczęliśmy"** - [Recording on YouTube](https://youtu.be/kQ2uPXedrVY)
+  - Lecture titled (NTHK): **"Serverless i bezpieczeństwo"** - [Recording on YouTube](https://youtu.be/XmZiH8sBakM)
 - **Jakub Domaradzki**: [LinkedIn](https://www.linkedin.com/in/jakub-domaradzki-sec/)
   - Lecture titled (HD): **"S.T.E.A.D.Y. - Starting To Explore Active Directory, YAY!"** - [Recording on YouTube](https://youtu.be/HsYg05j4I5g)
-  
+- **Rafał Prabucki**: [LinkedIn](https://www.linkedin.com/in/rprabucki/)
+  - Lecture titled (HD): **"Regulacyjny kompas w świecie cyberbezpieczeństwa"** - [Recording on YouTube](https://youtu.be/H76Djfq5BLo)  
+- **Andrzej Piotrowski**: [LinkedIn](https://www.linkedin.com/in/nestofthebest/)
+  - Lecture titled (HD): **"DORAstamy do NIS2 - jak sie w tym połapać"** - [Recording on YouTube]()  
 
 Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Business%20Cards)" of our speakers!
 

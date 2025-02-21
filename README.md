@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2684 links on our wiki!**
+**There are already 2688 links on our wiki!**
 
 💥 Intro
 -----
@@ -14,7 +14,7 @@ This wiki cannot exist without you! So if you want to contribute to expanding th
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
 
-Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki)
+Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki) & [Meetup](https://www.meetup.com/notthehiddenwiki/)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
 

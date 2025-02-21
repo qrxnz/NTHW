@@ -13,3 +13,4 @@
 8. Little Book of Rust Macros - [link](https://veykril.github.io/tlborm/)
 9. rust-how-do-i-start github repo - [link](https://github.com/jondot/rust-how-do-i-start)
 10. 100 Days of Rust by Lasq - [link](https://github.com/lasq88/100days/blob/main/rust/2025/README.md)
+11. Using FFI to Call Assembly Functions from Rust - [link](https://cratecode.com/info/rust-ffi-assembly)
