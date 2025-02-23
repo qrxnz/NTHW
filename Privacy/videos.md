@@ -34,3 +34,4 @@
 29. The ULTIMATE macOS Privacy & Security Guide! (2025) - [link](https://www.youtube.com/watch?v=EA4KyQBdSu8)
 30. The ULTIMATE Windows Privacy & Security Guide! (2025) - [link](https://www.youtube.com/watch?v=-nv3IEtXhF8)
 31. BusKill: Secure Your Laptop in Seconds - [link](https://www.youtube.com/watch?v=Zns0xObbOPM)
+32. Anonymous Torrenting With I2P - [link](https://www.youtube.com/watch?v=FNp0TRDG0BQ)
