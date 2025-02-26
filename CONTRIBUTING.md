@@ -26,7 +26,7 @@ We welcome various forms of contributions:
 ## Making Changes
 
 - **Adding or Updating Links**:
-  - Navigate to the appropriate category file (e.g., `Cryptography.md`).
+  - Navigate to the appropriate category file (e.g., `Cryptography/tools.md`).
   - Add or update the link in the list, maintaining alphabetical order if applicable.
   - Use the following format:
     ```markdown
