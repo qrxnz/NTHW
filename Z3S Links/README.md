@@ -6,7 +6,7 @@
 
 ## Announcement
 
-The links you will find in the "Z3S Links" directory come from "**Weekendowa Lektura / Weekend Catch Up**" from the Zaufana Trzecia Strona [***] / Bad Cyber - belonging to the same people.
+The links you will find in the "Z3S Links" directory come from "**Weekendowa Lektura / Weekend Catch Up**" <br>from the Zaufana Trzecia Strona [***] / Bad Cyber - belonging to the same people.
 <br>We encourage, to read the original lecture where you will find even more links:
 
 * [Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/post/tag/weekendowa-lektura/)
