@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/banner.png">
 </p>
 
-**There are already 2577 links on our wiki!**
+**There are already 2853 links on our wiki!**
 
 💥 Intro
 -----
@@ -14,7 +14,7 @@ This wiki cannot exist without you! So if you want to contribute to expanding th
 
 As a thank you, you will be added to the [Hall of Fame](https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md) list where, apart from your nickname, I can link your social media/website or whatever you think is appropriate!
 
-Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki)
+Visit also our social media: [LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/) & [Twitter](https://twitter.com/NotHiddenWiki) & [YouTube](https://www.youtube.com/@NotTheHiddenWiki) & [Meetup](https://www.meetup.com/notthehiddenwiki/)
 
 **I am not responsible for using the knowledge provided on this website in an unethical way**
 
@@ -41,9 +41,10 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 
 📖 Category list
 -----
-
+- **Our partnerships**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/README.md)
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/nthw/stars.md)
 - **Notes - Articles from our community**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Notes)
+- **Community Projects**: [Check](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Community%20Projects)
 - **Learning Paths**:
   - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/web_application_pentester.md) 
   - Incident Response Analyst: [Read](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Learning%20Paths/incident_response_analyst.md)
@@ -94,6 +95,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
   - Pentest Reports: [Link](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Red%20Team/pentest_reports.md)
 - **Blue Team**:
   - Forensics: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Forensics/videos.md)
+  - KQL: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/KQL/videos.md)
   - Incident Response: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Incident%20Response/videos.md)
   - Threat Hunting: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/articles.md) / [Platforms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/platforms.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Threat%20Hunting/videos.md)
   - Reverse Engineering: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Blue%20Team/Reverse%20Engineering/videos.md)
@@ -135,6 +137,7 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 - **Android**: [Forums](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/forums.md) / [Roms](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Android/roms.md)
 - **AppSec**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/articles.md) / [Threats](https://github.com/notthehiddenwiki/NTHW/blob/nthw/AppSec/threats.md)
 - **Privacy**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Privacy/videos.md)
+- **Links from Zaufana Trzecia Strona**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/Z3S%20Links/)
 
 🚀 Milestones
 -----
@@ -153,3 +156,4 @@ Also check out the "[business cards](https://github.com/notthehiddenwiki/NTHW/bl
 10. **19.11.2024** - 500 stars on GitHub
 11. **12.12.2024** - First anniversary 🍰🎈
 12. **12.12.2024** - 2500 links on NTHW
+13. **26.02.2025** - 1000 stars on GitHub

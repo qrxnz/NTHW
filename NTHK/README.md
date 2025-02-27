@@ -24,8 +24,6 @@ Jeśli jesteś specjalistą w jakimś obszarze i chcesz wspomóc nasze inicjatyw
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/nthw/.github/NTHW_ft._NTHK.png">
 </p>
 
-📖 Category list
------
+**"NTHK S1E01 - Blue Team dla zielonych. Od czego zacząć i jak zaplanować naukę?"** - [Recording on YouTube](https://www.youtube.com/watch?v=I1xutYHjAnY)
 
-- **Testy**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Tests/) 
-- **Cheatsheet**: [Check](https://github.com/notthehiddenwiki/NTHW/blob/nthw/NTHK/Cheatsheet/) 
+**Następna sesja NTHK 14.01.2025**

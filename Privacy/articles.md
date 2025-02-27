@@ -12,3 +12,4 @@
 7. Host Your Own AI Chatbot Privately: A Complete Guide - [link](https://www.nbtv.media/newsletter/host-your-own-ai-chatbot-privately-a-complete-guide)
 8. Turn this ON if you use iCloud! - [link](https://www.nbtv.media/newsletter/turn-this-on-if-you-use-icloud)
 9. The Beginner’s Guide to Data Privacy & Cybersecurity - [link](https://thenewoil.org/en/)
+10. Cops can force suspect to unlock phone with thumbprint, US court rules - [link](https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/)
