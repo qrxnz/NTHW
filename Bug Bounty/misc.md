@@ -18,3 +18,4 @@
 13. A list of Google Dorks for Bug Bounty - [link](https://github.com/TakSec/google-dorks-bug-bounty)
 14. Don’t Force Yourself to Become a Bug Bounty Hunter - [link](https://samcurry.net/dont-force-yourself-to-become-a-bug-bounty-hunter/)
 15. LostSec - Your Ultimate Bug Bounty Resource Hub! - [link](https://lostsec.xyz/)
+16. Critical Thinking - Bug Bounty Podcast - [link](https://www.youtube.com/@criticalthinkingpodcast)
