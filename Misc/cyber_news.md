@@ -25,4 +25,5 @@
 20. InfoSec / Cybersecurity News - [link](https://allinfosecnews.com/)
 21. KapitanHack - [link](https://kapitanhack.pl)
 22. BadCyber - [link](https://badcyber.com/)
+23. 404 Media - [link](https://www.404media.co/)
 24. List of InfoSec & Cybersecurity by foorilla[link](https://github.com/foorilla/allinfosecnews_sources/)
