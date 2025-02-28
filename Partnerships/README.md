@@ -10,3 +10,4 @@ Below you will find companies that we have **partnerships** with and that suppor
 * [Unshade](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Unshade.md)
 * [CypSec](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/CypSec.md)
 * [DSecure.me](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/DSecure_me.md)
+* [Elementrica](https://github.com/notthehiddenwiki/NTHW/tree/nthw/Partnerships/Companies/Elementrica.md)
